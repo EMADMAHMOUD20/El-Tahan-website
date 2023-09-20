@@ -273,7 +273,7 @@ header .container nav ul a.active {
 .landing {
   /* height: calc(100vh - 66.8px); */
   height: 100vh;
-  background-image: url(imgs/mainPhoto2.jpg);
+  background-image: url(../imgs/mainPhoto2.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -339,7 +339,7 @@ header .container nav ul a.active {
 /* using different image in mobile */
 @media (max-width: 767px) {
   .landing {
-    background-image: url(imgs/El-Tahan-homepagephoto-cropped.jpg);
+    background-image: url(../imgs/El-Tahan-homepagephoto-cropped.jpg);
     background-size: cover;
     background-position: 52%;
     background-repeat: no-repeat;
