@@ -287,6 +287,8 @@ header .container nav ul a.active {
   top: 50%;
   right: 0%;
   background-color: rgba(0, 0, 0, 0.8);
+  min-height: 137px;
+
 }
 
 .landing .title .main-p {
@@ -307,6 +309,7 @@ header .container nav ul a.active {
     font-weight: bold;
     /* width: 70%; */
     min-width: none;
+    min-height: 108.25px;
   }
 
   .landing .title .main-p {
